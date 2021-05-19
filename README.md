@@ -4,7 +4,7 @@
 
 ### Description of what method does:
 
-returns the number of characters that the string contains
+returns the number of characters that the string contains.
 
 ### When to use:
 
